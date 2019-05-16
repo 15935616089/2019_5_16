@@ -222,26 +222,26 @@ body{
     height:20px;
     position:absolute;
     left:48px;
-    top:110px;
+    top:100px;
 }
 .price1{
     position:absolute;
     left:75px;
-    top:113px;
+    top:103px;
     color:#0055AA;
     font-size:14px;
 }
 .price2{
     position: absolute;
     left:115px;
-    top:113px;
+    top:103px;
     font-size: 16px ;
     color: orange;
 }
 .price3{
     position:absolute;
     left:130px;
-    top:98px;
+    top:88px;
     color: orange;
     font-size:30px;
 }
